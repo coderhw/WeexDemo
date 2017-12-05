@@ -1,0 +1,20 @@
+PODS:
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+  - SocketRocket (0.5.1)
+  - WeexSDK (0.15.1):
+    - SocketRocket
+
+DEPENDENCIES:
+  - SDWebImage (= 3.7.5)
+  - WeexSDK (~> 0.15.1)
+
+SPEC CHECKSUMS:
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+  WeexSDK: 5282685df6d7279213a51a3142b915759f6e3413
+
+PODFILE CHECKSUM: 0ced8adad42a0050cfc0d71156752801c776ca58
+
+COCOAPODS: 1.2.0
